@@ -1,0 +1,6 @@
+In this file it contains Adam's details:
+name: Adam
+sex: male
+age: 20
+
+#who can modify the file:
