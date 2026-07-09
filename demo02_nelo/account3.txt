@@ -1,0 +1,5 @@
+This command sets up a user's home directory and 
+creates a private group designated by the user's username. 
+Currently, the account lacks a valid password, 
+preventing the user from logging in until a password is created.
+I can write something here

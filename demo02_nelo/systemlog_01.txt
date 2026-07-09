@@ -1,0 +1,22 @@
+# sample log file
+2024-04-25 09:00:00 INFO Startup: Application starting
+2024-04-25 09:01:00 INFO Config: Configuration loaded successfully
+2024-04-25 09:02:00 DEBUG Database: Database connection established
+2024-04-25 09:03:00 INFO User: New user registered (UserID: 1001)
+2024-04-25 09:04:00 WARN Security: Attempted login with incorrect credentials (UserID: 1001)
+2024-04-25 09:05:00 ERROR Network: Network timeout on request (ReqID: 456)
+2024-04-25 09:06:00 INFO Email: Notification email sent (UserID: 1001)
+2024-04-25 09:07:00 DEBUG API: API call with response time over threshold (Duration: 350ms)
+2024-04-25 09:08:00 INFO Session: User session ended (UserID: 1001)
+2024-04-25 09:09:00 INFO Shutdown: Application shutdown initiated
+# sample log file
+2024-04-25 09:00:00 INFO Startup: Application starting
+2024-04-25 09:01:00 INFO Config: Configuration loaded successfully
+2024-04-25 09:02:00 DEBUG Database: Database connection established
+2024-04-25 09:03:00 INFO User: New user registered (UserID: 1001)
+2024-04-25 09:04:00 WARN Security: Attempted login with incorrect credentials (UserID: 1001)
+2024-04-25 09:05:00 warning Network: Network timeout on request (ReqID: 456)
+2024-04-25 09:06:00 INFO Email: Notification email sent (UserID: 1001)
+2024-04-25 09:07:00 DEBUG API: API call with response time over threshold (Duration: 350ms)
+2024-04-25 09:08:00 INFO Session: User session ended (UserID: 1001)
+2024-04-25 09:09:00 INFO Shutdown: Application shutdown initiated
